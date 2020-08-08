@@ -3,6 +3,6 @@ Meu nome é Brenda Pereira e eu estou em constante aprendizado na área de Desen
 :raising_hand: sinta-se à vontade para entrar em contato comigo através do meu linkedin: 
 
 ⚡ Skills:
--**Javascript**, 
--Node.js
--jQuery
+- **Javascript**, 
+- Node.js
+- jQuery
