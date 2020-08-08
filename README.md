@@ -12,7 +12,7 @@ Meu nome é Brenda Pereira e eu estou em constante aprendizado na área de Desen
 - MongoDB w/ mongoose
 - MySQL
 
-:dart: Other Languages and Tools:  
+:blossom:Languages used less often
 <p>
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style=" padding: 4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg" alt="python" style=" padding:4px">
