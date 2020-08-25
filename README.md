@@ -13,7 +13,7 @@ Atualmente estudando React <br>
 - MongoDB w/ mongoose
 - MySQL
 
-:bulb: Languages used less often
+:bulb: Languages used less often:
 <p>
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style=" padding: 4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg" alt="python" style=" padding:4px">
