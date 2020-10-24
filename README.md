@@ -5,12 +5,11 @@ Atualmente estudando React <br>
 <br>
 
 ⚡ **Main Skills**:
-- Javascript, 
-- Node.js w/ express.js
-- jQuery
+- Javascript
+- Node.js 
+- MongoDB w/ mongoose
 - CSS
 - Bootstrap
-- MongoDB w/ mongoose
 - MySQL
 
 :bulb: Languages used less often:
