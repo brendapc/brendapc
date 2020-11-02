@@ -8,10 +8,11 @@ Meu nome é Brenda Pereira e eu estou em constante aprendizado na área de Desen
 - Javascript
 - NodeJS 
 - ReactJS
-- MongoDB w/ mongoose
 - CSS
-- Bootstrap
+- MongoDB w/ mongoose
 - MySQL
+- Bootstrap
+
 
 :bulb: Languages used less often:
 <p>
