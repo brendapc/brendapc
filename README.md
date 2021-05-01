@@ -1,5 +1,6 @@
-### Olá 👋 :star2:
-Meu nome é Brenda Pereira e eu estou em constante aprendizado na área de Desenvolvimento Web com Javascript principalmente :yellow_heart: <br>
+### Hi! 👋 :star2:
+I'm Brenda and in these GitHub repositories are my besties during my continuous learning journey in the Web Development field, using Javascript/Typescript mainly :yellow_heart: <br>
+Make sure to check the pinned repositories, they are my personal favorites
 
 <br>
 
