@@ -1,5 +1,6 @@
 ### Hi! 👋 :star2:
-I'm Brenda, i currently focused on being a specialized Frontend developer and in these GitHub repositories are my besties during my continuous learning journey in the Web Development field, using Javascript/Typescript mainly :yellow_heart: <br>
+I'm Brenda, i currently focused on being a specialized frontend developer and in these GitHub repositories are my besties during my continuous learning journey in the Web Development field, using Javascript/Typescript mainly :yellow_heart: <br>
+<br>
 Make sure to check the pinned repositories, they are my personal favorites
 
 <br>
