@@ -1,7 +1,7 @@
 ### Hi! 👋 
-I'm Brenda, i currently focused on being a specialized frontend developer and in these GitHub repositories are my besties during my continuous learning journey in the Web Development field, using Javascript/Typescript mainly :yellow_heart: <br>
+I'm Brenda, software developer for 4+ years focused on Frontend Development with React/Next and a little of React Native.
 <br>
-Make sure to check the pinned repositories, they are my personal favorites
+Make sure to check the pinned repositories, they are my favorites
 
 <br>
 
